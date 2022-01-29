@@ -1,0 +1,66 @@
+main{
+    min-height: 100vh;
+}
+header{
+    min-height: 100vh;
+    background: url(../images/bg.jpg) no-repeat center/cover;
+}
+nav{
+    min-height: 70px;
+}
+.lowernav{
+    min-height: 100vh;
+}
+.bottomhead{
+    min-height: 120px;
+}
+section{
+    min-height: 300px;
+}
+section > div{
+    min-height: 300px;
+}
+.boxes{
+    min-height: 150px;
+}
+.section3{
+    background:url(../images/process-bg.jpg) no-repeat center/cover;
+    min-height: 400px;
+}
+.process{
+    min-height: 400px;
+}
+.process1{
+    height: 200px;
+    background: url(../images/p-bg1.jpg) no-repeat center/cover;
+}
+.process2{
+    height: 200px;
+    background: url(../images/p-bg2.jpg) no-repeat center/cover;
+}
+.process3{
+    height: 200px;
+    background: url(../images/p-bg3.jpg) no-repeat center/cover;
+}
+.process4{
+    height: 200px;
+    background: url(../images/p-bg4.jpg) no-repeat center/cover;
+}
+.section4{
+    min-height: 500px;
+}
+aside{
+    min-height: 200px;
+}
+.section5{
+    min-height: 600px;
+}
+.contact{
+    min-height: 200px;
+}
+.team{
+    min-height: 200px;
+}
+.map{
+    min-height: 250px;
+}
